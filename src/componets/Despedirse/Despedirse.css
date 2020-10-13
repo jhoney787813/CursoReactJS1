@@ -1,0 +1,7 @@
+.despedirse .nombre {
+  color: blue;
+}
+
+.despedirse.apellido {
+  font-size: 30px;
+}

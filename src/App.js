@@ -68,7 +68,7 @@ const data=
               {/*<Car></Car> */} 
               {/*COMPONENTE STATE TIPO OBJETOS*/}
                 {/* <CarObjState></CarObjState> */}
-
+{/* editor */}
           {/* 
              <p className="nombre">hola</p>
         <a className="App-link"

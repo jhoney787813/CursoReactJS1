@@ -67,7 +67,7 @@ const data=
               {/*componente hook estate */}
               {/*<Car></Car> */} 
               {/*COMPONENTE STATE TIPO OBJETOS*/}
-                <CarObjState></CarObjState>
+                {/* <CarObjState></CarObjState> */}
 
           {/* 
              <p className="nombre">hola</p>

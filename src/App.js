@@ -10,7 +10,7 @@ import Componente  from "./componets/Componente/Componente"
 import LayoutBasic from "./componets/LayoutBasic"
 import Car from "./componets/Car"
 import CarObjState from "./componets/CarObjState"
-
+import CarUseEffect from "./componets/CarUseEffect"
 
 function App() {
 const UserName="pepe";
@@ -68,6 +68,12 @@ const data=
               {/*<Car></Car> */} 
               {/*COMPONENTE STATE TIPO OBJETOS*/}
                 {/* <CarObjState></CarObjState> */}
+
+
+    <CarUseEffect></CarUseEffect>
+
+
+
 {/* editor */}
           {/* 
              <p className="nombre">hola</p>
